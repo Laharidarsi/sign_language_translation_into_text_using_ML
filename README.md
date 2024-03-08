@@ -10,7 +10,24 @@ INTRODUCTION:
 
 The signs of ASL are
 ![signs](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/70f80b51-bc90-41ee-ae7c-6cfb2be37531)
-     
+
+About the CONVOLUTIONAL NEURAL NETWORK(CNN):
+    Convolutional Neural Networks (CNNs) are a class of deep learning models widely used for processing visual data, such as images. They consist of interconnected layers that learn hierarchical representations of features within the input data. CNNs have revolutionized computer vision tasks, achieving state-of-the-art performance in tasks like image classification, object detection, and facial recognition. Their ability to automatically learn and extract features from raw pixel data makes them highly effective for a wide range of image-related tasks.
+     Here's how CNNs can be applied in sign language translation:
+
+Feature Extraction: CNNs are adept at extracting features from images. In the context of sign language translation, CNNs can analyze images or video frames of sign language gestures to identify hand shapes, movements, and other visual cues that represent different signs.
+
+Gesture Recognition: Once the features are extracted, CNNs can recognize specific gestures or signs based on the patterns they've learned from training data. This involves training the CNN on a dataset of images or videos of sign language gestures paired with their corresponding text labels.
+
+Model Training: Training a CNN for sign language translation involves feeding it with labeled data, consisting of images or video frames of sign language gestures along with their corresponding textual representations. The CNN learns to associate certain visual patterns with specific textual outputs through the training process.
+
+Real-Time Translation: Once trained, the CNN can be deployed to translate sign language gestures into text in real-time. This can be done by capturing video input of sign language gestures, feeding them into the trained CNN, and obtaining the corresponding textual output.
+
+Accuracy Improvement: Continuously improving the CNN's accuracy is essential for reliable sign language translation. This can involve techniques such as data augmentation, fine-tuning the model architecture, and increasing the diversity and size of the training dataset.
+
+Integration with Other Components: CNNs may be part of a larger system for sign language translation, which could include components for preprocessing video input, post-processing textual output, and integrating with user interfaces or communication devices.
+
+Overall, CNNs serve as a powerful tool for sign language translation into text using ML, enabling more accessible communication for individuals who are deaf or hard of hearing. However, it's crucial to ensure the accuracy and reliability of the translation system through careful model training and validation.
      
 
 
