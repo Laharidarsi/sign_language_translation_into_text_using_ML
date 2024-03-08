@@ -35,13 +35,20 @@ Integration with Other Components: CNNs may be part of a larger system for sign 
 ![cnn](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/b9816467-719a-4408-b814-1a2210a7cf07)
 
 Overall, CNNs serve as a powerful tool for sign language translation into text using ML, enabling more accessible communication for individuals who are deaf or hard of hearing. However, it's crucial to ensure the accuracy and reliability of the translation system through careful model training and validation.
-In CNN have 
+In CNN have :
+
 1.Convolutional Layer
+
 2.Pooling Layer
+
    a.Max Pooling 
+   
    b.Average Pooling 
+   
 3.Fully Connected Layer
+
               ![fullyConnectedLayer](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/dde62b9a-dd6f-41d4-8ff1-7bd8767454cd)
+              
 4.Final Output Layer
 
 The Graphical User Interface(GUI) of the application is as shown below:
