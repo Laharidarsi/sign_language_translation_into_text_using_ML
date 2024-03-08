@@ -29,6 +29,38 @@ Integration with Other Components: CNNs may be part of a larger system for sign 
 ![cnn](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/b9816467-719a-4408-b814-1a2210a7cf07)
 
 Overall, CNNs serve as a powerful tool for sign language translation into text using ML, enabling more accessible communication for individuals who are deaf or hard of hearing. However, it's crucial to ensure the accuracy and reliability of the translation system through careful model training and validation.
+In CNN have 1.Convolutional Layer
+            2.Pooling Layer
+              a.Max Pooling 
+              b.Average Pooling 
+            3.Fully Connected Layer
+              ![fullyConnectedLayer](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/dde62b9a-dd6f-41d4-8ff1-7bd8767454cd)
+            4.Final Output Layer
+
+The Graphical User Interface(GUI) of the application is as shown below:
+link...
+
+Flow Chart for Gesture Classification :
+link...
+
+
+RESULTS:
+   I achieved a 95.8% accuracy with the first layer of the algorithm. When combining layers 1 and 2, I attained a 98% accuracy.
+
+Libraries Requirements :
+1.Latest pip --> pip install
+2.numpy --> pip install numpy
+3.string --> pip install string
+4.os-sys --> pip install os-sys
+5.opencv --> pip install opencv-python
+6.tensorflow --> pip install tensorflow
+7.keras --> pip install keras
+8.tkinter --> pip install tkinter
+9.PIL --> pip install Pillow
+10.enchant --> pip install pyenchant
+11. spellchecker --> pip install spellchecker
+   
+
      
 
 
