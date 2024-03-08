@@ -43,8 +43,7 @@ In CNN have :
 
    a.Max Pooling 
    
-   b.Average Pooling 
-   
+   b.Average Pooling  
 3.Fully Connected Layer
               ![fullyConnectedLayer](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/dde62b9a-dd6f-41d4-8ff1-7bd8767454cd)
               
