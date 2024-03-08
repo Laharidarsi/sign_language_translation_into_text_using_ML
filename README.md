@@ -17,7 +17,6 @@ About the DATASET :
 
     
 About the CONVOLUTIONAL NEURAL NETWORK(CNN):
-
     Convolutional Neural Networks (CNNs) are a class of deep learning models widely used for processing visual data, such as images. They consist of interconnected layers that learn hierarchical representations of features within the input data. CNNs have revolutionized computer vision tasks, achieving state-of-the-art performance in tasks like image classification, object detection, and facial recognition. Their ability to automatically learn and extract features from raw pixel data makes them highly effective for a wide range of image-related tasks.
      Here's how CNNs can be applied in sign language translation:
 
@@ -41,7 +40,6 @@ In CNN have 1.Convolutional Layer
               a.Max Pooling 
               b.Average Pooling 
             3.Fully Connected Layer
-            
               ![fullyConnectedLayer](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/dde62b9a-dd6f-41d4-8ff1-7bd8767454cd)
               
             4.Final Output Layer
