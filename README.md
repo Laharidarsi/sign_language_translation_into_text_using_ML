@@ -14,7 +14,10 @@ The signs of ASL are
 
 About the DATASET :
     DATASET link  : https://www.kaggle.com/code/fromcbgtohust/asl-cnn-recognizer/input
+
+    
 About the CONVOLUTIONAL NEURAL NETWORK(CNN):
+
     Convolutional Neural Networks (CNNs) are a class of deep learning models widely used for processing visual data, such as images. They consist of interconnected layers that learn hierarchical representations of features within the input data. CNNs have revolutionized computer vision tasks, achieving state-of-the-art performance in tasks like image classification, object detection, and facial recognition. Their ability to automatically learn and extract features from raw pixel data makes them highly effective for a wide range of image-related tasks.
      Here's how CNNs can be applied in sign language translation:
 
@@ -29,6 +32,7 @@ Real-Time Translation: Once trained, the CNN can be deployed to translate sign l
 Accuracy Improvement: Continuously improving the CNN's accuracy is essential for reliable sign language translation. This can involve techniques such as data augmentation, fine-tuning the model architecture, and increasing the diversity and size of the training dataset.
 
 Integration with Other Components: CNNs may be part of a larger system for sign language translation, which could include components for preprocessing video input, post-processing textual output, and integrating with user interfaces or communication devices.
+
 ![cnn](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/b9816467-719a-4408-b814-1a2210a7cf07)
 
 Overall, CNNs serve as a powerful tool for sign language translation into text using ML, enabling more accessible communication for individuals who are deaf or hard of hearing. However, it's crucial to ensure the accuracy and reliability of the translation system through careful model training and validation.
@@ -37,6 +41,7 @@ In CNN have 1.Convolutional Layer
               a.Max Pooling 
               b.Average Pooling 
             3.Fully Connected Layer
+            
               ![fullyConnectedLayer](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/dde62b9a-dd6f-41d4-8ff1-7bd8767454cd)
               
             4.Final Output Layer
