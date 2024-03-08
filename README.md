@@ -9,6 +9,7 @@ INTRODUCTION:
             Finally, our project aims to take the hand gestures as an input through webcam and to produce text to have an effective communication between the deaf and dumb people and normal people.
 
 The signs of ASL are
+![signs](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/70f80b51-bc90-41ee-ae7c-6cfb2be37531)
      
      
 
