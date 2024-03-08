@@ -38,10 +38,10 @@ In CNN have 1.Convolutional Layer
             4.Final Output Layer
 
 The Graphical User Interface(GUI) of the application is as shown below:
-link...
+![outputs](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/245d6e28-dfeb-460a-8f17-972fe40db211)
 
 Flow Chart for Gesture Classification :
-link...
+![gesture](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/3639f88e-ddd0-4f6c-a499-5d7ee7c7b221)
 
 
 RESULTS:
