@@ -11,6 +11,9 @@ INTRODUCTION:
 The signs of ASL are
 ![signs](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/70f80b51-bc90-41ee-ae7c-6cfb2be37531)
 
+
+About the DATASET :
+    DATASET link  : https://www.kaggle.com/code/fromcbgtohust/asl-cnn-recognizer/input
 About the CONVOLUTIONAL NEURAL NETWORK(CNN):
     Convolutional Neural Networks (CNNs) are a class of deep learning models widely used for processing visual data, such as images. They consist of interconnected layers that learn hierarchical representations of features within the input data. CNNs have revolutionized computer vision tasks, achieving state-of-the-art performance in tasks like image classification, object detection, and facial recognition. Their ability to automatically learn and extract features from raw pixel data makes them highly effective for a wide range of image-related tasks.
      Here's how CNNs can be applied in sign language translation:
@@ -35,12 +38,15 @@ In CNN have 1.Convolutional Layer
               b.Average Pooling 
             3.Fully Connected Layer
               ![fullyConnectedLayer](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/dde62b9a-dd6f-41d4-8ff1-7bd8767454cd)
+              
             4.Final Output Layer
 
 The Graphical User Interface(GUI) of the application is as shown below:
+
 ![outputs](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/245d6e28-dfeb-460a-8f17-972fe40db211)
 
 Flow Chart for Gesture Classification :
+
 ![gesture](https://github.com/Laharidarsi/sign_language_translation_into_text_using_ML/assets/147030721/3639f88e-ddd0-4f6c-a499-5d7ee7c7b221)
 
 
@@ -48,16 +54,27 @@ RESULTS:
    I achieved a 95.8% accuracy with the first layer of the algorithm. When combining layers 1 and 2, I attained a 98% accuracy.
 
 Libraries Requirements :
+
 1.Latest pip --> pip install
+
 2.numpy --> pip install numpy
+
 3.string --> pip install string
+
 4.os-sys --> pip install os-sys
+
 5.opencv --> pip install opencv-python
+
 6.tensorflow --> pip install tensorflow
+
 7.keras --> pip install keras
+
 8.tkinter --> pip install tkinter
+
 9.PIL --> pip install Pillow
+
 10.enchant --> pip install pyenchant
+
 11. spellchecker --> pip install spellchecker
    
 
